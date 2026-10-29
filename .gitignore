@@ -1,0 +1,18 @@
+
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.vscode/
+
+# Database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Backup and submission files
+*.zip
+starter_backup/
